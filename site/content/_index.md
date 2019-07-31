@@ -1,7 +1,7 @@
 ---
-title: Great coffee with a conscience
+title: Techshed Frome
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/leaf.jpg
+image: /img/dsc09189-wide.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
